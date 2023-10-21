@@ -1,0 +1,53 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b686677_002D4fa3_002D466a_002Db35b_002D328169ec7aed/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckGetCardWithInvalidAuth" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.GetCardsValidationTests.CheckGetCardWithInvalidAuth&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3bc38b8f_002D6e5e_002D442a_002D8d96_002Deb6bb64b9979/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckGetBoard" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests+GetBoardsTest.CheckGetBoard&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=419717ef_002Dc951_002D4f2d_002Db7c1_002D2fed34a4ea34/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckGetCardWithInvalidAuth #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.GetCardsValidationTests.CheckGetCardWithInvalidAuth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.GetBoardsValidationsTests.CheckGetBoardWithInvalidId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.GetCardsValidationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests+GetBoardsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.GetBoardsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42005b12_002Dd9ca_002D4528_002D8af2_002D6df554764d8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckGetBoard #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CreateBoardValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CardBoardValidationTest.CheckCreateCardWithInvalidName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CardBoardValidationTest.CheckCreateCardInvaliAuth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CardBoardValidationTest.CheckCreateCardInvalidAuth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CardBoardValidationTest.CheckCreatedCardWithAnotherUserCredentials&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateBoardTest.CheckUpdateBoard&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=492ef35c_002D499f_002D400b_002Da453_002D0a752f1b7875/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckGetBoardWithInvalidId" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CreateBoard.CheckCreateBoard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CreateCard.CheckCreateNewCard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CreateCard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CreateBoardValidationTest.Task&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CreateBoardValidationTest.CheckCreateBoardWithInvalidName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Post.CreateBoardValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateBoardTest.CheckUpdateBoard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateCardTest.CheckUpdateCard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateBoardValidationTest.CheckUpdateBoardWithInvalidId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateBoardValidationTest.CheckUpdateGetBoardWithInvalidAuth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateBoardValidationTest.CheckUpBoardWithoudUserCredentials&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateCardValidationTest.CheckUpdateCardWithInvalidAuth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateCardValidationTest.CheckUpdateCardWithInvalidId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Update.UpdateCardValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Delete.DeleteTestBoard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Delete.DeleteTestCard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Delete.DeleteBoardValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Delete.DeleteCard.DeleteCardValidationTest.CheckDeleteCardWithInvalidAuth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::63196919-734A-452F-8A78-5786E2853420::net6.0::RestSharpTest.Tests.Delete.DeleteCard.DeleteCardValidationTest.CheckDeleteCardWithInvalidId&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
