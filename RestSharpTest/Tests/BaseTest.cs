@@ -2,9 +2,11 @@
 using RestSharp;
 using RestSharpTest.Consts;
 
+
+
 namespace RestSharpTest.Tests;
 
-public class BaseTest
+public class BaseTest : TestCore
 {
     
     protected static RestClient _client;
@@ -12,7 +14,7 @@ public class BaseTest
     [OneTimeSetUp]
     public static void InitializeRestClient()
     {
-        _client = new RestClient("https://api.trello.com");
+        _client = new RestClient(ProjectSettings.BaseUrl);
     }
     
     protected static RestRequest RequestWithAuth(string resource)

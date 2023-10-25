@@ -2,6 +2,8 @@
 using RestSharp;
 using RestSharpTest.Arguments.Holders;
 using RestSharpTest.Consts;
+using RestSharpTest.Services;
+using RestSharpTest.Tests;
 
 namespace RestSharpTest.Arguments.Providers;
 
@@ -25,7 +27,7 @@ public class AuthValidationArgumentsProvider : IEnumerable
         {
             new AuthValidationArgumentHolder
             {
-                AuthParams = new []{Parameter.CreateParameter("key",UrlParamValues.ValidKey,ParameterType.QueryString)},
+                AuthParams = new []{Parameter.CreateParameter("key",TestCore.AuthData.ValidKey,ParameterType.QueryString)},
                 BordErrorMessage = "unauthorized permission requested",
                 CardErrorMessage = "unauthorized card permission requested",
                 CardAuthMessage = "unauthorized card permission requested",
@@ -37,7 +39,7 @@ public class AuthValidationArgumentsProvider : IEnumerable
         {
             new AuthValidationArgumentHolder
             {
-                AuthParams = new []{Parameter.CreateParameter("token",UrlParamValues.ValidToken,ParameterType.QueryString)},
+                AuthParams = new []{Parameter.CreateParameter("token",TestCore.AuthData.ValidToken,ParameterType.QueryString)},
                 BordErrorMessage = "invalid key",
                 CardErrorMessage = "invalid key",
                 CardAuthMessage = "invalid key",
